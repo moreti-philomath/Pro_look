@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Godfrey Moemedi Moreti - Digital CV</title>
+  </head>
+  <body>
+    <header>
+      <h1>Godfrey Moreti's Digital CV</h1>
+    </header>
+
+    <section>
+      <h2>About Me</h2>
+      <p>A lifelong-learner who firmly believes in the power of consistent, small daily improvements to achieve extraordinary long-term success.</p>
+      <p>I am an accounting student, an enthusiastic 'finance professional-in-training' with a strong foundation in accounting and financial analysis.</p><p>Driven by a deep passion for investments, financial instruments and alternative assets, I am committed to continuous learning and professional growth in the finance industry, dedicated to attaining recognized professional qualifications, experiences, skills and relevant professional exposure.</p>I also have a keen interest in sustainable development, I strive to integrate responsible and impactful financial practices into my career. My experience with that spans in leadership in impactful organizations and fellowships focused on advancing quality education and economic empowerment aligned with the Sustainable Development Goals. </p>
+    </section>
+
+    <section>
+      <h2>Education</h2>
+      <p><strong>•Bachelor of Accountancy</strong> - University of Botswana<br>2022-2026</p>
+    </section>
+    
+    <section>
+        <h2>Certificates & Licenses</h2>
+        <p>- Diploma in Sustainable Development, Alison<br>- Financial Markets(with Honors), Coursera | Yale University<br>- Private Equity & Venture Capital, Coursera | Università Bocconi<br>- Introduction to Modeling, Financial Edge Training<br>- Introduction to Python, Sololearn<br>- Mastering Public Relations for Brand Building, Alison</p>
+    </section>
+
+    <section>
+      <h2>Skills</h2>
+      <ul>
+        <li>Accounting & Auditing</li>
+        <li>Proficiency in Quickbooks</li>
+        <li>Financial Modeling & Analysis</li>
+        <li>Sustainability</li>
+        <li>Financial Statements</li>
+        <li>Python Coding & HTML</li>
+        <li>Public Relations & Communications</li>
+      </ul>
+    </section>
+
+    <section>
+      <h2>Professional Experience</h2>
+      <p><strong>•Audit Attachè</strong> - Forvis Mazars<br>(June 2025 - August 2025)</p>
+      <p>Gained hands on experience in what working in audit entails.</p>
+    </section>
+    
+    <section>
+        <h2>Volunteering Experience</h2>
+        <p><strong>•Director of Strategic Outreach & Proposals</strong> - Hult Prize Botswana<br>(October 2025 - ... )</p>
+        <p><strong>•Director of Public Relations & Communications</strong><br>(Aug 2025 - ... )<strong><br>•Assistant Public Relations Officer</strong> - Quantitative Analysis and Risk Management Club<br>(Jan 2025 - Jul 2025)</p>
+    </section>
+    
+    <section>
+        <h2>Fellowships</h2>
+        <p><strong>•Millennium Fellow '25</strong> - Millennium Campus Network(MCN)</p><p></p>Focused on modelling financial literacy studies in primary school curriculum. SDG 4-Quality Education, doesn't only entail theory, it has to translate to real life skills we all should have. </p>
+    </section>
+
+    <section>
+      <h2>Contact Me:</h2>
+      <p><b>Email</b>: <a href="mailto:godfrey.moreti7@gmail.com"><i>.godfrey.moreti7@gmail.com</i></a><br><b>LinkedIn</b>: <a href=https://www.linkedin.com/in/godfrey-moreti-2a0228219?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_apptarget="_blank"><i>Lets Connect!</a><i/></p>
+    </section>
+  </body>
+</html>
